@@ -73,7 +73,7 @@
   opacity: 0.6;
 }
 
-.cover__title {             
+.cover__title {
   z-index: 3;
   font-size: 100px;
   font-weight: 700;
@@ -114,7 +114,6 @@
   font-size: 22px;
   font-weight: 400;
   color: #FFFFFF;
-  line-height: 73px;
   word-spacing: 20px;
   line-height: 28px;
   align-content: center;
@@ -146,7 +145,7 @@
   font-weight: 700;
   line-height: 46.96px;
   text-transform: uppercase;
-  padding-left: 40px; 
+  padding-left: 40px;
 }
 
 .lots__card-list {
